@@ -34,5 +34,3 @@ Currently expanding into React & Node.js ecosystems.
 💬 Always open to collaborating on **frontend, backend, desktop, or any projects related to my expertise**. 
 
 ---
-
----
