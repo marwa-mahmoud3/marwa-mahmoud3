@@ -2,10 +2,6 @@
 
 ### 💻 Full-Stack Developer (.NET & Angular) | 5+ Years | Front-End Specialist | Aspiring React & Node.js
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=marwa-mahmoud3&label=Profile%20views&color=0e75b6&style=flat" alt="marwa-mahmoud3" />
-</p>
-
 Welcome to my GitHub profile!  
 I’m a Full-Stack Developer (.NET & Angular) with 5+ years of experience.
 Front-End focused, passionate about building scalable, user-centric interfaces.
