@@ -32,7 +32,7 @@ Currently expanding into React & Node.js ecosystems.
  - 🤖 [**AI Skilled**](https://github.com/marwa-mahmoud3/) | An AI-driven outbound sales platform that redefines the future of sales with digital employees and an all-in-one solution for team productivity.
  - 🏗️ [**AMLAK**](https://github.com/marwa-mahmoud3/Amlak-System) | A specialized real estate management system for handling property listings and enterprise data.
  - 🚚 [**Nawloan**](https://github.com/marwa-mahmoud3/) | A comprehensive logistics and shipping platform for managing transportation workflows and delivery operations.
- - 🖥️ [**Qwsian**](https://github.com/marwa-mahmoud3/Qwsian) | An interactive educational platform designed to streamline digital learning experiences and manage educational content effectively.
+ - 🖥️ [**Qwsian**](https://github.com/marwa-mahmoud3/Qwsian-System) | An interactive educational platform designed to streamline digital learning experiences and manage educational content effectively.
  - 🛒 [**Alsooq**](https://github.com/marwa-mahmoud3/) | Scalable E-commerce marketplace for listing and purchasing property and vehicles.
  - 🌙 [**Tebnabawe**](https://github.com/marwa-mahmoud3/) | comprehensive Islamic platform featuring interactive Quran reading and interpretation (Tafsir) , live radio streaming , and an integrated article management system.
 
