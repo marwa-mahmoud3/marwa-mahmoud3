@@ -11,7 +11,7 @@ With over 5 years of experience, I've delivered high-performance, scalable web a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,ts,angular,react,next,bootstrap,tailwind,figma,redux,nodejs,express,mongodb,sql,java,c,cpp,cs,dotnet,firebase,git,github,gitlab,postman&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,ts,angular,react,bootstrap,tailwind,figma,redux,nodejs,express,mongodb,sql,java,c,cpp,cs,dotnet,firebase,git,github,gitlab,postman&perline=15" />
   </a>
 </p>
 
