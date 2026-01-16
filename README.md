@@ -1,18 +1,17 @@
 # 👋 Hi, I'm **Marwa Mahmoud**
 
-### 💻 Full-Stack Developer (.NET & Angular) | 5+ Years | Front-End Specialist | Aspiring React & Node.js
+### 💻 Senior Software Engineer | Angular & .NET Specialist | 5+ Years | Aspiring React & Node.js
 
 Welcome to my GitHub profile!  
-I’m a Full-Stack Developer (.NET & Angular) with 5+ years of experience.
-Front-End focused, passionate about building scalable, user-centric interfaces.
-Currently expanding into React & Node.js ecosystems.
+I'm a Senior Software Engineer specializing in Angular, ASP.NET Core, TypeScript, JavaScript, and SQL Server. 
+With over 5 years of experience, I've delivered high-performance, scalable web applications with expertise in integrating complex RESTful APIs and optimizing backend systems.
 
 ---
 ## ⚙️ My Tech Stack  
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,ts,angular,react,bootstrap,tailwind,figma,redux,nodejs,express,mongodb,sql,java,c,cpp,cs,dotnet,firebase,git,github,gitlab,postman&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,ts,angular,react,next,bootstrap,tailwind,figma,redux,nodejs,express,mongodb,sql,java,c,cpp,cs,dotnet,firebase,git,github,gitlab,postman&perline=15" />
   </a>
 </p>
 
@@ -20,7 +19,7 @@ Currently expanding into React & Node.js ecosystems.
 
 ## 📬 Connect With Me  
 
-📧 **Email:** [marwamahmoud12m@gmail.com](mailto:marwamahmoud12m@gmail.com)  
+📧 **Email:** [marwa.sw.eng@outlook.com](mailto:marwa.sw.eng@outlook.com)  
 💼 **LinkedIn:** [linkedin.com/in/marwa-mahmoud123/](https://www.linkedin.com/in/marwa-mahmoud123/)  
 🌐 **Portfolio:** []()
 💬 Always open to collaborating on **frontend, backend, desktop, or any projects related to my expertise**. 
