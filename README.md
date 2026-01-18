@@ -41,10 +41,10 @@ I am always excited to take on new challenges that allow me to leverage my techn
 
 ## 🎓 Education
 
-* **Bachelor's Degree in Computer Science** | Assiut University (2016 - 2020) 
-    - 🏅 **Grade**: Very Good 
 * **Professional Diploma in Web and Business Intelligence (BI)** | Information Technology Institute (ITI) (2021)
 
+* **Bachelor's Degree in Computer Science** | Assiut University (2016 - 2020) 
+    - 🏅 **Grade**: Very Good 
 ---
 
 ## 📜 Professional Certifications
