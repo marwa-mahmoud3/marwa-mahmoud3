@@ -1,10 +1,15 @@
-# 👋 Hi, I'm **Marwa Mahmoud**
+# 👋 Hi, I'm **Marwa Mahmoud Mohamed**
 
-### 💻 Senior Software Engineer | Angular & .NET Specialist | 5+ Years | Aspiring React & Node.js
+### 💻 Senior Software Engineer | Full-Stack Developer | Angular, .NET Core, SQL Server | AI Integration & RESTful API Expert | Agile & Freelance Specialist | Proven Track Record in ECommerce & ERP Solutions
 
 Welcome to my GitHub profile!  
-I'm a Senior Software Engineer specializing in Angular, ASP.NET Core, TypeScript, JavaScript, and SQL Server. 
-With over 5 years of experience, I've delivered high-performance, scalable web applications with expertise in integrating complex RESTful APIs and optimizing backend systems.
+I am a highly skilled Senior Software Engineer with over 5 years of experience specializing in full- stack development, including Angular, .NET Core, TypeScript, JavaScript, and SQL Server. My expertise spans building high-performance, scalable web applications, integrating complex RESTful APIs, and optimizing backend systems. I thrive in Agile environments and have a proven track record of consistently delivering projects that exceed client expectations.
+
+Skilled in leading teams and delivering solutions in e-commerce, ERP, and AI-driven systems. Focused on creating user-centric applications that enhance business efficiency and engagement. Strong in both frontend and backend technologies, ensuring seamless integration and optimal user experience.
+
+Throughout my career, I have also excelled in mentoring junior developers, guiding teams to implement best practices, and ensuring high-quality code delivery. I have earned recognition for my ability to improve code maintainability, optimize performance, and ensure top-tier security practices, making a significant impact in every project I undertake.
+
+I am always excited to take on new challenges that allow me to leverage my technical expertise while pushing the boundaries of what’s possible in web development. Whether working on AI integration, performance optimization, or leading client-driven projects.
 
 ---
 ## ⚙️ My Tech Stack  
