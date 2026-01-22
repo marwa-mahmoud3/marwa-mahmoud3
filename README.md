@@ -33,7 +33,7 @@ I am always excited to take on new challenges that allow me to leverage my techn
  - 🤖 [**AI Skilled**](https://github.com/marwa-mahmoud3/) | An AI-driven outbound sales platform that redefines the future of sales with digital employees and an all-in-one solution for team productivity.
  - 🏗️ [**AMLAK**](https://github.com/marwa-mahmoud3/Amlak-System) | A specialized real estate management system for handling property listings and enterprise data.
  - 🚚 [**Nawloan**](https://github.com/marwa-mahmoud3/) | A comprehensive logistics and shipping platform for managing transportation workflows and delivery operations.
- - 🖥️ [**Qwsian**](https://github.com/marwa-mahmoud3/Qwsian-System) | An interactive educational platform designed to streamline digital learning experiences and manage educational content effectively.
+ - 🖥️ [**Qwsian**](https://github.com/marwa-mahmoud3/Qwsian-System-CaseStudy) | An interactive educational platform designed to streamline digital learning experiences and manage educational content effectively.
  - 🛒 [**Alsooq**](https://github.com/marwa-mahmoud3/) | Scalable E-commerce marketplace for listing and purchasing property and vehicles.
  - 🌙 [**Tebnabawe**](https://github.com/marwa-mahmoud3/) | comprehensive Islamic platform featuring interactive Quran reading and interpretation (Tafsir) , live radio streaming , and an integrated article management system.
 
@@ -69,13 +69,5 @@ I am always excited to take on new challenges that allow me to leverage my techn
 - 🚀 **ECPC 2020**: Ranked **143rd** in the Egyptian Competitive Programming Contest.
 - 🚀 **Assiut Collegiate Programming Contest**: Secured **11th place** in the competition held in Oct 2019.
 - 🚀 **Top-Rated Freelancer**: Earned top-rated status for consistently delivering high-quality web applications and ensuring client satisfaction.
-
----
-
-## 📊 GitHub Analytics  
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=marwa-mahmoud3&theme=merko&hide_border=false" width="400" />
-</div>
 
 ---
