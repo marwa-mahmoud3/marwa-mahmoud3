@@ -21,8 +21,8 @@ I am always excited to take on new challenges that allow me to leverage my techn
 ## 📬 Connect With Me  
 
 📧 **Email:** [marwa.sw.eng@outlook.com](mailto:marwa.sw.eng@outlook.com)  
-💼 **LinkedIn:** [linkedin.com/in/marwa-mahmoud123/](https://www.linkedin.com/in/marwa-mahmoud123/)  
-🌐 **Portfolio:** [https://marwa-mahmoud-sw-eng.vercel.app/](https://marwa-mahmoud-sw-eng.vercel.app/)
+💼 **LinkedIn:** [marwa-mahmoud123](https://www.linkedin.com/in/marwa-mahmoud123/)  
+🌐 **Portfolio:** [marwa-mahmoud-sw-eng.vercel.app](https://marwa-mahmoud-sw-eng.vercel.app/)
 
 💬 Always open to collaborating on **frontend, backend, desktop, or any projects related to my expertise**. 
 
