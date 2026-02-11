@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Marwa Mahmoud Mohamed**
 
-### 💻 Senior Software Engineer | Angular Specialist | Full-Stack Developer (.NET & SQL Server) | AI Integration & RESTful API Expert | Proven Track Record in ECommerce & ERP Solutions
+### 💻 Senior Software Engineer | Angular Specialist | Full-Stack Developer (.NET & SQL Server) | AI Integration | Immediately Available
 
 Welcome to my GitHub profile!  
 I am a highly skilled Senior Software Engineer with over 5 years of experience specializing in full- stack development, including Angular, .NET Core, TypeScript, JavaScript, and SQL Server. My expertise spans building high-performance, scalable web applications, integrating complex RESTful APIs, and optimizing backend systems. I thrive in Agile environments and have a proven track record of consistently delivering projects that exceed client expectations.
