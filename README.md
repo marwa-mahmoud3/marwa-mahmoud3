@@ -34,7 +34,7 @@ I am always excited to take on new challenges that allow me to leverage my techn
  - 🏗️ [**AMLAK**](https://github.com/marwa-mahmoud3/Amlak-System) | A specialized real estate management system for handling property listings and enterprise data.
  - 🚚 [**Nawloan**](https://github.com/marwa-mahmoud3/) | A comprehensive logistics and shipping platform for managing transportation workflows and delivery operations.
  - 🖥️ [**Qwsian**](https://github.com/marwa-mahmoud3/Qwsian-System-CaseStudy) | An interactive educational platform designed to streamline digital learning experiences and manage educational content effectively.
- - 🛒 [**Alsooq**](https://github.com/marwa-mahmoud3/) | Scalable E-commerce marketplace for listing and purchasing property and vehicles.
+ - 🛒 [**Alsooq**](https://github.com/marwa-mahmoud3/Alsooq-Frontend-App) | Scalable E-commerce marketplace for listing and purchasing property and vehicles.
  - 🌙 [**Tebnabawe**](https://github.com/marwa-mahmoud3/Tebnabawa-Integrated-Religious-Platform) | comprehensive Islamic platform featuring interactive Quran reading, live radio streaming , and an integrated article management system.
 
 ---
