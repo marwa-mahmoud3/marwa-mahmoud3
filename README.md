@@ -30,7 +30,7 @@ I am always excited to take on new challenges that allow me to leverage my techn
 
 ## 🚀 Featured Projects
 
- - 🤖 [**AI Skilled**](https://github.com/marwa-mahmoud3/) | An AI-driven outbound sales platform that redefines the future of sales with digital employees and an all-in-one solution for team productivity.
+ - 🤖 [**AI Skilled**](https://github.com/marwa-mahmoud3/AI-Skilled-Frontend-Platform) | An AI-driven outbound sales platform that redefines the future of sales with digital employees and an all-in-one solution for team productivity.
  - 🏗️ [**AMLAK**](https://github.com/marwa-mahmoud3/Amlak-RealEstate-System) | A specialized real estate management system for handling property listings and enterprise data.
  - 🖥️ [**Qwsian**](https://github.com/marwa-mahmoud3/Qwsian-System-CaseStudy) | An interactive educational platform designed to streamline digital learning experiences and manage educational content effectively.
  - 🛒 [**Alsooq**](https://github.com/marwa-mahmoud3/Alsooq-Frontend-App) | Scalable E-commerce marketplace for listing and purchasing property and vehicles.
