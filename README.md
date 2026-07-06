@@ -1,11 +1,9 @@
-# 👋 Hi, I'm **Marwa Mahmoud Mohamed**
+# 👋 Hi, I'm **Marwa Mahmoud El-Khatib**
 
-### 💻 Senior Software Engineer | Angular Specialist | Full-Stack Developer (.NET & SQL Server) | AI Integration | Immediately Available
+### 💻 Senior Frontend Engineer | Angular Specialist | Robust Background in .NET Core & SQL Server
 
 Welcome to my GitHub profile!  
-I am a highly skilled Senior Software Engineer with over 5 years of experience specializing in full- stack development, including Angular, .NET Core, TypeScript, JavaScript, and SQL Server. My expertise spans building high-performance, scalable web applications, integrating complex RESTful APIs, and optimizing backend systems. I thrive in Agile environments and have a proven track record of consistently delivering projects that exceed client expectations.
-
-I am always excited to take on new challenges that allow me to leverage my technical expertise while pushing the boundaries of what’s possible in web development. Whether working on AI integration, performance optimization, or leading client-driven projects.
+I am a highly skilled Senior Frontend Engineer with over 5 years of experience specializing in Angular, TypeScript, and Tailwind CSS. Proven track record of architecting enterprise Angular systems for Saudi government and semi-government entities, successfully delivering multiple national platforms and custom ERP management systems. Possesses a robust backend and database development background, enabling seamless cross-functional API integrations and optimal data synchronization, leading cross-functional teams to consistently achieve and surpass project goals. Recognized for delivering pixel-perfect implementations that precisely match designs, backed by exceptional technical expertise, competitive programming accolades, and ranking 1st in the ITI Freelance Track.
 
 ---
 ## ⚙️ My Tech Stack  
@@ -20,9 +18,9 @@ I am always excited to take on new challenges that allow me to leverage my techn
 
 ## 📬 Connect With Me  
 
-📧 **Email:** [marwa.sw.eng@outlook.com](mailto:marwa.sw.eng@outlook.com)  
-💼 **LinkedIn:** [marwa-mahmoud123](https://www.linkedin.com/in/marwa-mahmoud123/)  
-🌐 **Portfolio:** [marwa-mahmoud-sw-eng.vercel.app](https://marwa-mahmoud-sw-eng.vercel.app/)
+📧 **Email:** [marwa.m.elkhatib@outlook.com](mailto:marwa.m.elkhatib@outlook.com)  
+💼 **LinkedIn:** [marwa-mahmoud-elkhatib](https://www.linkedin.com/in/marwa-mahmoud-elkhatib/)  
+🌐 **Portfolio:** [marwa-mahmoud-elkhatib.vercel.app](https://marwa-mahmoud-elkhatib.vercel.app/)
 
 💬 Always open to collaborating on **frontend, backend, desktop, or any projects related to my expertise**. 
 
