@@ -3,7 +3,7 @@
 ### 💻 Senior Frontend Engineer | Angular Specialist | Robust Background in .NET Core & SQL Server
 
 Welcome to my GitHub profile!  
-I am a highly skilled Senior Frontend Engineer with over 5 years of experience specializing in Angular, TypeScript, and Tailwind CSS. Proven track record of architecting enterprise Angular systems for Saudi government and semi-government entities, successfully delivering multiple national platforms and custom ERP management systems. Possesses a robust backend and database development background, enabling seamless cross-functional API integrations and optimal data synchronization, leading cross-functional teams to consistently achieve and surpass project goals. Recognized for delivering pixel-perfect implementations that precisely match designs, backed by exceptional technical expertise, competitive programming accolades, and ranking 1st in the ITI Freelance Track.
+I am a highly skilled Senior Frontend Engineer with over 6 years of experience specializing in Angular, TypeScript, and Tailwind CSS. Proven track record of architecting enterprise Angular systems for Saudi government and semi-government entities, successfully delivering multiple national platforms and custom ERP management systems. Possesses a robust backend and database development background, enabling seamless cross-functional API integrations and optimal data synchronization, leading cross-functional teams to consistently achieve and surpass project goals. Recognized for delivering pixel-perfect implementations that precisely match designs, backed by exceptional technical expertise, competitive programming accolades, and ranking 1st in the ITI Freelance Track.
 
 ---
 ## ⚙️ My Tech Stack  
